@@ -56,7 +56,7 @@
 
 ### **Databases & Storage**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,redis" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases">
 </p>
 
 ### **Automation & Testing**
@@ -76,7 +76,7 @@
 
 ### **Other Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=heroku,webpack,graphql,figma,opencv,hadoop,git,github" alt="Other Tools">
+  <img src="https://skillicons.dev/icons?i=heroku,webpack,graphql,figma,opencv,git,github" alt="Other Tools">
 </p>
 
 ---

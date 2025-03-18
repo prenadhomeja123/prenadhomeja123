@@ -25,12 +25,15 @@
   <a href="https://fb.com/prena.dhomeja" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  <a href="https://instagram.com/prenadhomeja" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,angular,arduino,aws,azure,backbone,blender,bootstrap,c,cpp,csharp,css,cy,dart,django,docker,express,figma,flask,flutter,git,github,googlecloud,heroku,html,java,js,kafka,kotlin,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,opencv,oracle,php,postgres,python,pytorch,rabbitmq,react,redux,redis,sass,selenium,spring,sqlite,tailwind,tensorflow,typescript,unity,unreal,vue,webpack" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=android,angular,arduino,aws,azure,backbone,blender,bootstrap,c,cpp,csharp,css,cy,dart,django,docker,express,figma,flask,flutter,git,github,googlecloud,heroku,html,java,js,kafka,kotlin,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,opencv,oracle,php,postgres,python,pytorch,rabbitmq,react,redux,redis,sass,selenium,spring,sqlite,tailwind,tensorflow,typescript,unity,unreal,vue,webpack,hadoop,cassandra,r,jupyter,solidity,fastapi,scikitlearn,matplotlib,pandas,openai,postman,graphql,cloudflare" alt="Tech Stack">
 </p>
 
 ## 📊 GitHub Stats
@@ -44,5 +47,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prenadhomeja123&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prenadhomeja123&theme=light" alt="GitHub Streak" />
 </p>
+

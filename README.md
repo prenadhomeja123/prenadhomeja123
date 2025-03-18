@@ -30,11 +30,38 @@
   </a>
 </p>
 
-## 🛠️ Languages and Tools
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,angular,arduino,aws,azure,backbone,blender,bootstrap,c,cpp,csharp,css,cy,dart,django,docker,express,figma,flask,flutter,git,github,googlecloud,heroku,html,java,js,kafka,kotlin,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,opencv,oracle,php,postgres,python,pytorch,rabbitmq,react,redux,redis,sass,selenium,spring,sqlite,tailwind,tensorflow,typescript,unity,unreal,vue,webpack,hadoop,cassandra,r,jupyter,solidity,fastapi,scikitlearn,matplotlib,pandas,openai,postman,graphql,cloudflare" alt="Tech Stack">
-</p>
+## 🛠️ Technologies & Tools
+
+### **Programming Languages**
+- Java, JavaScript (JS), TypeScript (TS), Python, C, C++, C#, Kotlin, SQL, PHP
+
+### **Frontend & Styling**
+- HTML5, CSS3, Bootstrap, Sass (Syntactically Awesome Stylesheets), Tailwind CSS
+
+### **Backend & Frameworks**
+- Django (Python), Flask (Python), Node.js, Express.js, Spring Boot (Java), Next.js, Nuxt.js
+
+### **Cloud & DevOps**
+- AWS (Amazon Web Services), Microsoft Azure, Google Cloud Platform (GCP), Firebase, Docker, Kubernetes, Nginx
+
+### **Databases & Storage**
+- MySQL, PostgreSQL, MongoDB, SQL Server (Microsoft SQL), Redis, Cassandra
+
+### **Automation & Testing**
+- Selenium, Jenkins, RabbitMQ, Cypress
+
+### **AI/ML & Data Science**
+- TensorFlow, PyTorch, Apache Kafka
+
+### **Game Development**
+- Unity, Unreal Engine
+
+### **Other Tools & Platforms**
+- Heroku, Webpack, GraphQL, Figma, OpenCV (Computer Vision), Hadoop (Big Data), Git, GitHub
+
+---
 
 ## 📊 GitHub Stats
 
@@ -49,4 +76,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prenadhomeja123&theme=light" alt="GitHub Streak" />
 </p>
-

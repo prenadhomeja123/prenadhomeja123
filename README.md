@@ -35,31 +35,49 @@
 ## 🛠️ Technologies & Tools
 
 ### **Programming Languages**
-- Java, JavaScript (JS), TypeScript (TS), Python, C, C++, C#, Kotlin, SQL, PHP
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,cs,kotlin,php" alt="Programming Languages">
+</p>
 
 ### **Frontend & Styling**
-- HTML5, CSS3, Bootstrap, Sass (Syntactically Awesome Stylesheets), Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind" alt="Frontend Technologies">
+</p>
 
 ### **Backend & Frameworks**
-- Django (Python), Flask (Python), Node.js, Express.js, Spring Boot (Java), Next.js, Nuxt.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,spring,nextjs,nuxtjs" alt="Backend Technologies">
+</p>
 
 ### **Cloud & DevOps**
-- AWS (Amazon Web Services), Microsoft Azure, Google Cloud Platform (GCP), Firebase, Docker, Kubernetes, Nginx
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,kubernetes,nginx" alt="Cloud & DevOps">
+</p>
 
 ### **Databases & Storage**
-- MySQL, PostgreSQL, MongoDB, SQL Server (Microsoft SQL), Redis, Cassandra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,redis" alt="Databases">
+</p>
 
 ### **Automation & Testing**
-- Selenium, Jenkins, RabbitMQ, Cypress
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins,rabbitmq,cypress" alt="Automation & Testing">
+</p>
 
 ### **AI/ML & Data Science**
-- TensorFlow, PyTorch, Apache Kafka
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,kafka" alt="AI/ML & Data Science">
+</p>
 
 ### **Game Development**
-- Unity, Unreal Engine
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Development">
+</p>
 
 ### **Other Tools & Platforms**
-- Heroku, Webpack, GraphQL, Figma, OpenCV (Computer Vision), Hadoop (Big Data), Git, GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=heroku,webpack,graphql,figma,opencv,hadoop,git,github" alt="Other Tools">
+</p>
 
 ---
 
